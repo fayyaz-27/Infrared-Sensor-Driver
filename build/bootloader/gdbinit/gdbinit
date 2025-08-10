@@ -1,0 +1,2 @@
+source C:/Espressif/projects_esp_fayyaz/ir_sensor/build/bootloader/gdbinit/symbols
+source C:/Espressif/projects_esp_fayyaz/ir_sensor/build/bootloader/gdbinit/connect

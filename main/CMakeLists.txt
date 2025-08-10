@@ -1,0 +1,1 @@
+idf_component_register(SRCS "ir_driver.c" "main.c" INCLUDE_DIRS ".")
