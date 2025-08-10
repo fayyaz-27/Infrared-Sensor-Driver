@@ -1,5 +1,3 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
 # ESP32 IR Sensor Obstacle Detection
 
 This project reads an IR sensor input on ESP32 using ESP-IDF. When the IR sensor detects a wall, the sensor sends logic low.
